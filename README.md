@@ -30,7 +30,7 @@ pip3 install -r requirements.txt
 ## Data
 
 ### Processed Data
-You can directly download the processed datasets [here]() without conducting the following steps.
+You can directly download the processed datasets [here](https://drive.google.com/drive/folders/1_AGR5RQSC5CsCkWYMINNc9aisKK7uTQs?usp=sharing) without conducting the following steps.
 
 ### Raw Data
 MAG data and Amazon data can be downloaded here: [MAG Link](https://zenodo.org/record/7611544#.ZFprI-zMJ3k) and [Amazon Link](https://nijianmo.github.io/amazon/index.html).
